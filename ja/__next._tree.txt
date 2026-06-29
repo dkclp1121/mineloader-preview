@@ -8,4 +8,4 @@
 :HL["/partners/image-271.png","image"]
 :HL["/partners/Square_Enix_logo.svg","image"]
 :HL["/partners/image-273.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lang","param":{"type":"d","key":"ja","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"iT6p6Vu_tBBrMRqrFEx0c"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lang","param":{"type":"d","key":"ja","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"nb6l2e5FnKG1H0B3Aqu-U"}
