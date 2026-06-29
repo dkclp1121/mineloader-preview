@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,5271,e=>{"use strict";var t=e.i(43476),s=e.i(71645),u=e.i(18566);e.s(["default",0,function(){let e=(0,u.useRouter)(),{lang:c}=(0,u.useParams)();return(0,s.useEffect)(()=>{e.replace(`/${c}/#the-studio`)},[e,c]),(0,t.jsx)("main",{className:"min-h-screen bg-black"})}])}]);

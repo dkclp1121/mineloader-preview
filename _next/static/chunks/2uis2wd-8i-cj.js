@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,50087,e=>{"use strict";var t=e.i(43476),s=e.i(71645),a=e.i(18566);e.s(["default",0,function(){let e=(0,a.useRouter)(),{lang:c}=(0,a.useParams)();return(0,s.useEffect)(()=>{e.replace(`/${c}/#lets-talk`)},[e,c]),(0,t.jsx)("main",{className:"min-h-screen bg-black"})}])}]);
